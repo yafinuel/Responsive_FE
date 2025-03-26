@@ -148,7 +148,7 @@ strong {
     .card-container{
         flex-direction: column;
         width: 320px;
-        height: 450px;
+        height: 480px;
         gap: 10px;
     }
     
